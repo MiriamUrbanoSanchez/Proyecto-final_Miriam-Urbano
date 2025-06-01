@@ -17,7 +17,6 @@ Resolución: 400x600px responsivo/o tamaño fijo
 
 Probado en:Ms Edge
 
-Tamaño proyecto: 5.92 MB
 
 Fecha : 31/05/2025
 
