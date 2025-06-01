@@ -1,3 +1,36 @@
-_Licencia_
+# (Nombre del proyecto)
+Proyecto Final de Creación Multimedia Interactiva de la Facultad de Bellas Artes de la Univesidad de Granada
 
-![Captura de pantalla 2025-06-01 105318](https://github.com/user-attachments/assets/3fde5a19-0255-467c-888b-69969a16079a)
+## 1 Datos
+Titulo : Porfolio artístico
+
+Web: https://miriamurbanosanchez.github.io/Proyecto-final_Miriam-Urbano/
+
+Autor: Miriam Urbano Sánchez. 
+
+Resumen : Este proyecto de aplicación interactiva se trata de porfolio artístico interactivo. 
+
+
+Estilo/género: informativo. 
+
+Resolución: 400x600px responsivo/o tamaño fijo
+
+Probado en:Ms Edge
+
+Tamaño proyecto: 5.92 MB
+
+Fecha : 31/05/2025
+
+Medios (donde se tiene presencia relacionada):
+
+Github
+
+
+
+**Hippani Animator 5.1**
+![licncia](https://github.com/user-attachments/assets/f6583f6e-9df9-4f32-b274-277a3cd495d3)
+
+https://creativecommons.org/licenses/?lang=es
+
+Mayo 2025
+
